@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nihiloow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+##
+
 - 🔭 I’m currently working on **a video game**
 - 🌱 I’m currently learning **at Coda in Orléans.**
 - 🎯 Goals : **Finish my video game before 2026**
