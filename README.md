@@ -2,7 +2,9 @@
 <h3 align="center">My name is Nathan Vincente, an 18-year-old French Fullstack Developer student !</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihiloow&label=Profile%20views&color=0e75b6&style=flat" alt="Nihiloow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nihiloow&theme=" alt="Nihiloow" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nihiloow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 - 🔭 I’m currently working on **a video game**
 - 🌱 I’m currently learning **at Coda in Orléans.**
