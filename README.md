@@ -10,7 +10,7 @@
 ##
 
 - 🔭 I’m currently working on **a video game**
-- 🌱 I’m currently learning **at Coda in Orléans.**
+- 🌱 I’m learning **at Coda in Orléans.**
 - 🎯 Goals : **Finish my video game before 2026**
 - 📫 How to reach me **nathan.vincente.pro@gmail.com**
 - ⚡ Fun fact **I've won multiple Pokemon tournaments !**
